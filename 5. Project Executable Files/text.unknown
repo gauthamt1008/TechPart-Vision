@@ -1,0 +1,1666 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>eStartup Bootstrap Template - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:100,300,400,500,700|Philosopher:400,400i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: eStartup
+  * Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
+  * Updated: Mar 17 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div id="logo">
+        <h1><a href="index.html"><span>TechParts</span>Vision</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" title="" /></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about-us">About</a></li>
+          <li><a class="nav-link scrollto" href="#features">predict</a></li>
+          
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Welcome to TechParts Vision</h1>
+      <h2>Transfer learning leveraged tech detection</h2>
+      <img src= "h1.png" alt="Hero Imgs" data-aos="zoom-in" data-aos-delay="100">
+      <a href="#get-started" class="btn-get-started scrollto">Get Started</a>
+      <div class="btns">
+        <a href="#"><i class="fa fa-apple fa-3x"></i> App Store</a>
+        <a href="#"><i class="fa fa-play fa-3x"></i> Google Play</a>
+        <a href="#"><i class="fa fa-windows fa-3x"></i> windows</a>
+      </div>
+    </div>
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+
+    <!-- ======= Get Started Section =======
+    <section id="get-started" class="padd-section text-center">
+
+      <div class="container" data-aos="fade-up">
+        <div class="section-title text-center">
+
+          <h2>simple systeme fordiscount </h2>
+          <p class="separator">Integer cursus bibendum augue ac cursus .</p>
+
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="feature-block">
+
+              <img src="assets/img/svg/cloud.svg" alt="img">
+              <h4>introducing whatsapp</h4>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <a href="#">read more</a>
+
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="feature-block">
+
+              <img src="assets/img/svg/planet.svg" alt="img">
+              <h4>user friendly interface</h4>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <a href="#">read more</a>
+
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="feature-block">
+
+              <img src="assets/img/svg/asteroid.svg" alt="img">
+              <h4>build the app everyone love</h4>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+              <a href="#">read more</a>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </section> End Get Started Section -->
+
+    <!-- ======= About Us Section ======= -->
+      <section id="about-us"  >
+
+      <div class="container">
+        <img src="Tl.png" alt="About">
+      </div>
+          <div class="col-md-7 col-lg-5">
+
+    <header style="background-color: #333; color: #fff; text-align: center; padding: 1em 0;">
+        <h1 style="margin: 0; font-size: 2.5em;">About Us</h1>
+    </header>
+            <br>
+          </div>
+
+    </section>
+<br>
+     <div class="prism">
+        <div class="hexagon" id="hex1"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 1"></div>
+        <div class="hexagon" id="hex2"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 2"></div>
+        <div class="hexagon" id="hex3"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 3"></div>
+        <div class="hexagon" id="hex4"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 4"></div>
+        <div class="hexagon" id="hex5"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 5"></div>
+        <div class="hexagon" id="hex6"><img src="https://www.shutterstock.com/image-vector/computer-case-front-rear-side-600nw-144192091.jpg" alt="Image 6"></div>
+        </div>
+<br>
+
+    <section class="about" style="padding: 40px 20px;">
+        <div class="container" style="background: #fff; margin: 20px auto; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+            <h2 style="color: #333; font-size: 2em; margin-top: 0;">Transfer learning</h2>
+            <p style="color: #666; font-size: 1.2em; line-height: 1.8;">Employing advanced computer vision techniques to identify and classify various personal computer components into 14 different categories.</p>
+        </div>
+
+        <div class="container" style="background: #f9f9f9; margin: 20px auto; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+            <h2 style="color: #333; font-size: 2em; margin-top: 0;">Deep Learning Algorithms</h2>
+            <p style="color: #666; font-size: 1.2em; line-height: 1.8;">Leveraging state-of-the-art deep learning models to analyze extensive datasets of PC parts.</p>
+        </div>
+
+        <div class="container" style="background: #fff; margin: 20px auto; padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+            <h2 style="color: #333; font-size: 2em; margin-top: 0;">Component Categorization</h2>
+            <p style="color: #666; font-size: 1.2em; line-height: 1.8;">Developing a classifier to categorize components such as CPUs, GPUs, RAM modules, and storage devices accurately.</p>
+        </div>
+
+    <footer style="text-align: center; padding: 1em 0; background-color: #333; color: #fff; position: fixed; bottom: 0; width: 100%;">
+        <p>&copy; 2024 PC Parts Images Classification. All rights reserved.</p>
+    </footer>
+    </section><!-- End About Us Section -->
+
+    <!-- ======= Features Section ======= -->
+    <section id="features" class="padd-section text-center">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center">
+      <h2>Amazing Features</h2>
+      <p class="separator">Discover the cutting-edge functionalities that make TechPart Vision a game-changer in computer hardware classification.</p>
+    </div>
+
+    <div class="row justify-content-center">
+      <!-- Feature 1 -->
+      <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="100">
+        <div class="feature-block">
+          <img src="data:image/jpeg;base64,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">
+          <div class="feature-content">
+            <h4>E-commerce Integration</h4>
+            <p>Enhance user experience on e-commerce platforms by accurately categorizing millions of computer hardware products, streamlining search and purchase processes.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Feature 2 -->
+      <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="200">
+        <div class="feature-block">
+          <img src="https://www.intel.com/content/dam/www/public/us/en/images/photography/rwd/close-up-gpu-circuit-board-rwd.jpg">
+          <div class="feature-content">
+            <h4>Troubleshooting Support</h4>
+            <p>Expedite repair processes for computer technicians by quickly identifying faulty components and providing relevant compatibility and replacement information.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Feature 3 -->
+      <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="300">
+        <div class="feature-block">
+          <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhwvqi6g0pWn1jsEunCfwLynC3VjHARlVkNx2DjG9dXC0N5ysQD7RgCSaRJfVXNJG5f6CMuP2qalx8MN4kakigaG-Z51g9oJt2PX2dMu0iqokPxTCxh7JGJd5Caxl4PPF5VHZgH4-IE8p/s1600/computer.jpg" alt="Inventory Management">
+          <div class="feature-content">
+            <h4>Inventory Management</h4>
+            <p>Streamline inventory management for retailers by automatically classifying and cataloging computer components, providing insights into stock levels and trends.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+    <!-- ======= Video Section ======= -->
+    <section id="video" class="text-center">
+      <div class="overlay">
+        <div class="container-fluid container-full" data-aos="zoom-in">
+
+          <div class="row">
+            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q&feature=emb_title" class="glightbox play-btn"></a>
+          </div>
+
+        </div>
+      </div>
+    </section><!-- End Video Section -->
+
+    <!-- ======= Team Section ======= -->
+<section id="team" class="padd-section text-center">
+  <div class="container" data-aos="fade-up">
+    <div class="section-title text-center">
+      <h2>Team Member</h2>
+      <p class="separator"></p>
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="100">
+        <div class="team-block bottom">
+          <img src="assets/img/team/1.jpg" class="img-responsive rounded-circle" alt="img">
+          <div class="team-content">
+            <h4>GAUTAM</h4>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="200">
+        <div class="team-block bottom">
+          <img src="assets/img/team/2.jpg" class="img-responsive rounded-circle" alt="img">
+          <div class="team-content">
+            <h4>SRI RAM</h4>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="300">
+        <div class="team-block bottom">
+          <img src="assets/img/team/3.jpg" class="img-responsive rounded-circle" alt="img">
+          <div class="team-content">
+            <h4>KOWSHIK</h4>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 col-lg-3" data-aos="zoom-in" data-aos-delay="400">
+        <div class="team-block bottom">
+          <img src="assets/img/team/4.jpg" class="img-responsive rounded-circle" alt="img">
+          <div class="team-content">
+            <h4>T.S.ADITYA</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- ======= Newsletter Section ======= -->
+    <section id="newsletter" class="newsletter text-center">
+      <div class="overlay padd-section">
+        <div class="container" data-aos="zoom-in">
+
+          <div class="row justify-content-center">
+            <div class="col-md-9 col-lg-6">
+              <form class="d-flex" method="POST" action="#">
+                <input type="email" class="form-control " placeholder="Email Adress" name="email">
+                <button type="submit" class="btn btn-default"><i class="bi bi-location-arrow"></i>Subscribe</button>
+              </form>
+            </div>
+          </div>
+
+          <ul class="list-unstyled">
+            <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+            <li><a href="#"><i class="bi bi-twitter"></i></a></li>
+            <li><a href="#"><i class="bi bi-instagram"></i></a></li>
+            <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+          </ul>
+
+        </div>
+      </div>
+    </section><!-- End Newsletter Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="padd-section">
+
+      <div class="container" data-aos="fade-up">
+        <div class="section-title text-center">
+          <h2>Contact</h2>
+          <p class="separator">Please contact us if you are facing any issue</p>
+        </div>
+        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-3 col-md-4">
+            <div class="info">
+              <div>
+                <i class="bi bi-geo-alt"></i>
+                <p>A108 Adam Street<br>VIT AP,VIJAYWADA,ANDHRA PRADESH</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <p>info@example.com</p>
+              </div>
+
+              <div>
+                <i class="bi bi-phone"></i>
+                <p>+1 5589 55488 55s</p>
+              </div>
+            </div>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            </div>
+
+          </div>
+
+          <div class="col-lg-5 col-md-8">
+            <div class="form">
+              <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <div class="form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+                <div class="form-group mt-3">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                </div>
+                <div class="form-group mt-3">
+                  <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+                <div class="my-3">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+                </div>
+                <div class="text-center"><button type="submit">Send Message</button></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-12 col-lg-4">
+          <div class="footer-logo">
+
+            <a class="navbar-brand" href="#">eStartup</a>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the.</p>
+
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-2">
+          <div class="list-menu">
+
+            <h4>Abou Us</h4>
+
+            <ul class="list-unstyled">
+              <li><a href="#">About us</a></li>
+              <li><a href="#">Features item</a></li>
+              <li><a href="#">Live streaming</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+            </ul>
+
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-2">
+          <div class="list-menu">
+
+            <h4>Abou Us</h4>
+
+            <ul class="list-unstyled">
+              <li><a href="#">About us</a></li>
+              <li><a href="#">Features item</a></li>
+              <li><a href="#">Live streaming</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+            </ul>
+
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-2">
+          <div class="list-menu">
+
+            <h4>Support</h4>
+
+            <ul class="list-unstyled">
+              <li><a href="#">faq</a></li>
+              <li><a href="#">Editor help</a></li>
+              <li><a href="#">Contact us</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+            </ul>
+
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-3 col-lg-2">
+          <div class="list-menu">
+
+            <h4>Abou Us</h4>
+
+            <ul class="list-unstyled">
+              <li><a href="#">About us</a></li>
+              <li><a href="#">Features item</a></li>
+              <li><a href="#">Live streaming</a></li>
+              <li><a href="#">Privacy Policy</a></li>
+            </ul>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="copyrights">
+      <div class="container">
+        <p>&copy; Copyrights eStartup. All rights reserved.</p>
+        <div class="credits">
+          <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eStartup
+        -->
+          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
+      </div>
+    </div>
+
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+* Template Name: eStartup
+* Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
+* Updated: Mar 17 2024 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+h2 {
+  color: #000;
+  font-weight: 600;
+}
+
+h4 {
+  color: #000;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  line-height: 2;
+}
+
+h5 {
+  color: #626262;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+a {
+  letter-spacing: 2px;
+  text-decoration: none;
+  color: #71c55d;
+}
+
+a:hover {
+  color: #92d283;
+}
+
+ul {
+  letter-spacing: 1px;
+}
+
+li {
+  color: #626262;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 30px;
+  text-transform: capitalize;
+}
+
+p {
+  color: #505050;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+
+span {
+  letter-spacing: 1px;
+}
+
+.container-full {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn {
+  border: 1px solid #fff;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 15px 40px;
+  text-transform: uppercase;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #e6e6e6;
+  border-color: #adadad;
+}
+
+.fa {
+  text-decoration: none;
+  font-size: 13px;
+}
+
+/*--------------------------------------------------------------
+# Back to top button
+--------------------------------------------------------------*/
+.back-to-top {
+  position: fixed;
+  visibility: hidden;
+  opacity: 0;
+  right: 15px;
+  bottom: 15px;
+  z-index: 996;
+  background: #71c55d;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  transition: all 0.4s;
+}
+
+.back-to-top i {
+  font-size: 28px;
+  color: #fff;
+  line-height: 0;
+}
+
+.back-to-top:hover {
+  background: #8bd07b;
+  color: #fff;
+}
+
+.back-to-top.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  background: #fff;
+  z-index: 997;
+  transition: all 0.5s ease;
+  padding: 20px 0;
+}
+
+#header #logo h1 {
+  color: #505050;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+#header #logo h1 a {
+  color: #555;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#header #logo h1 a span {
+  color: #71c55d;
+}
+
+#header #logo img {
+  padding: 0;
+  margin: 0;
+}
+
+#header.header-scrolled {
+  background: #fff;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+  padding: 12px 0;
+}
+
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+/**
+* Desktop Navigation 
+*/
+.navbar {
+  padding: 0;
+}
+
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.navbar li {
+  position: relative;
+}
+
+.navbar a,
+.navbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #222;
+  white-space: nowrap;
+  transition: 0.3s;
+  letter-spacing: 0;
+}
+
+.navbar a i,
+.navbar a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+
+.navbar a:hover,
+.navbar .active,
+.navbar .active:focus,
+.navbar li:hover>a {
+  color: #71c55d;
+}
+
+.navbar .dropdown ul {
+  display: block;
+  position: absolute;
+  left: 14px;
+  top: calc(100% + 30px);
+  margin: 0;
+  padding: 10px 0;
+  z-index: 99;
+  opacity: 0;
+  visibility: hidden;
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  transition: 0.3s;
+  border-radius: 4px;
+}
+
+.navbar .dropdown ul li {
+  min-width: 200px;
+}
+
+.navbar .dropdown ul a {
+  padding: 10px 20px;
+  text-transform: none;
+}
+
+.navbar .dropdown ul a i {
+  font-size: 12px;
+}
+
+.navbar .dropdown ul a:hover,
+.navbar .dropdown ul .active:hover,
+.navbar .dropdown ul li:hover>a {
+  color: #71c55d;
+}
+
+.navbar .dropdown:hover>ul {
+  opacity: 1;
+  top: 100%;
+  visibility: visible;
+}
+
+.navbar .dropdown .dropdown ul {
+  top: 0;
+  left: calc(100% - 30px);
+  visibility: hidden;
+}
+
+.navbar .dropdown .dropdown:hover>ul {
+  opacity: 1;
+  top: 0;
+  left: 100%;
+  visibility: visible;
+}
+
+@media (max-width: 1366px) {
+  .navbar .dropdown .dropdown ul {
+    left: -90%;
+  }
+
+  .navbar .dropdown .dropdown:hover>ul {
+    left: -100%;
+  }
+}
+
+/**
+* Mobile Navigation 
+*/
+.mobile-nav-toggle {
+  color: #222;
+  font-size: 28px;
+  cursor: pointer;
+  display: none;
+  line-height: 0;
+  transition: 0.5s;
+}
+
+.mobile-nav-toggle.bi-x {
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .mobile-nav-toggle {
+    display: block;
+  }
+
+  .navbar ul {
+    display: none;
+  }
+}
+
+.navbar-mobile {
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background: rgba(34, 34, 34, 0.9);
+  transition: 0.3s;
+  z-index: 999;
+}
+
+.navbar-mobile .mobile-nav-toggle {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.navbar-mobile ul {
+  display: block;
+  position: absolute;
+  top: 55px;
+  right: 15px;
+  bottom: 15px;
+  left: 15px;
+  padding: 10px 0;
+  border-radius: 6px;
+  background-color: #fff;
+  overflow-y: auto;
+  transition: 0.3s;
+}
+
+.navbar-mobile a,
+.navbar-mobile a:focus {
+  padding: 10px 20px;
+  font-size: 15px;
+  color: #222;
+}
+
+.navbar-mobile a:hover,
+.navbar-mobile .active,
+.navbar-mobile li:hover>a {
+  color: #71c55d;
+}
+
+.navbar-mobile .getstarted,
+.navbar-mobile .getstarted:focus {
+  margin: 15px;
+}
+
+.navbar-mobile .dropdown ul {
+  position: static;
+  display: none;
+  margin: 10px 20px;
+  padding: 10px 0;
+  z-index: 99;
+  opacity: 1;
+  visibility: visible;
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+}
+
+.navbar-mobile .dropdown ul li {
+  min-width: 200px;
+}
+
+.navbar-mobile .dropdown ul a {
+  padding: 10px 20px;
+}
+
+.navbar-mobile .dropdown ul a i {
+  font-size: 12px;
+}
+
+.navbar-mobile .dropdown ul a:hover,
+.navbar-mobile .dropdown ul .active:hover,
+.navbar-mobile .dropdown ul li:hover>a {
+  color: #71c55d;
+}
+
+.navbar-mobile .dropdown>.dropdown-active {
+  display: block;
+}
+/* iframe and main frame */
+.main-container {
+            display: flex;
+            width: 100%;
+            height: 100vh;  /* Set the container height to full viewport height */
+        }
+.main-content {
+    flex: 3;
+    padding: 20px;
+    overflow-y: auto;  /* Allow vertical scrolling if content overflows */
+}
+.iframe-container {
+    flex: 1;
+    display: none;
+    padding: 20px;
+}
+.iframe-container iframe {
+    border: none;
+    overflow-y: auto;
+}
+/* prediction page */
+main .predict-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.classification {
+    margin-top: 2rem;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 100%;
+    max-width: 600px;
+}
+
+h3 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #555;
+}
+
+input[type="file"] {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.75rem 2rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#prediction-result {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #333;
+}
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+#hero {
+  width: 100%;
+  height: calc(100vh - 40px);
+  background: url("hero-bg.png") center bottom no-repeat;
+  background-size: 100%;
+  position: relative;
+  margin-top: 40px;
+}
+
+@media (min-width: 1025px) {
+  #hero {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 1025px) and (max-height: 768px) {
+  #hero {
+    height: 110vh;
+  }
+}
+
+@media (max-height: 600px) {
+  #hero {
+    height: 200vh;
+  }
+}
+
+#hero .hero-container {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+#hero h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  font-family: "Philosopher", sans-serif;
+  color: #71c55d;
+}
+
+@media (max-width: 768px) {
+  #hero h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+}
+
+#hero h2 {
+  color: #777;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+@media (max-width: 768px) {
+  #hero h2 {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 30px;
+  }
+}
+
+#hero img {
+  max-width: 95%;
+  margin-bottom: 30px;
+}
+
+#hero .btn-get-started {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 11px 36px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-bottom: 30px;
+  border: 2px solid #71c55d;
+  background: #fff;
+  color: #71c55d;
+  text-decoration: none;
+}
+
+#hero .btn-get-started:hover {
+  background: #71c55d;
+  color: #fff;
+}
+
+#hero .btns a {
+  color: #555;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 4px 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+@media (max-width: 575px) {
+  #hero .btns a {
+    margin: 4px 8px;
+  }
+}
+
+#hero .btns a:hover {
+  color: #71c55d;
+}
+
+/*--------------------------------------------------------------
+# Sections
+--------------------------------------------------------------*/
+section {
+  overflow: hidden;
+}
+
+.padd-section {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+@media (max-width: 992px) {
+  .padd-section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+
+.section-title {
+  margin-bottom: 80px;
+}
+
+@media (max-width: 992px) {
+  .section-title {
+    margin-bottom: 40px;
+  }
+}
+
+.section-title h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 45px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+
+.section-title .separator {
+  margin: 0;
+}
+
+.separator {
+  color: #626262;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+
+/*--------------------------------------------------------------
+# Breadcrumbs
+--------------------------------------------------------------*/
+.breadcrumbs {
+  padding: 20px 0;
+  background-color: #f5fbf3;
+  min-height: 40px;
+  margin-top: 82px;
+}
+
+@media (max-width: 992px) {
+  .breadcrumbs {
+    margin-top: 68px;
+  }
+}
+
+.breadcrumbs h2 {
+  font-size: 24px;
+  font-weight: 300;
+  margin: 0;
+}
+
+@media (max-width: 992px) {
+  .breadcrumbs h2 {
+    margin: 0 0 10px 0;
+  }
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.breadcrumbs ol li {
+  letter-spacing: 0;
+  font-size: 14px;
+}
+
+.breadcrumbs ol li+li {
+  padding-left: 10px;
+}
+
+.breadcrumbs ol li+li::before {
+  display: inline-block;
+  padding-right: 10px;
+  color: #6c757d;
+  content: "/";
+}
+
+@media (max-width: 768px) {
+  .breadcrumbs .d-flex {
+    display: block !important;
+  }
+
+  .breadcrumbs ol {
+    display: block;
+  }
+
+  .breadcrumbs ol li {
+    display: inline-block;
+  }
+}
+
+
+/* About Us Section
+--------------------------------*/
+#about-us {
+  width: 100%;
+  height: calc(100vh - 40px);
+  position: relative;
+  margin-top: 40px;
+}
+
+#about-us .container{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+    }
+#about .container{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  bottom: 1000px;
+  top: 0;
+  left: 0;
+  right: 0;
+  align-items: center;
+    }
+#about-us .about-content {
+  padding-top: 60px;
+}
+
+#about-us .about-content h2 {
+  color: #252525;
+  font-family: "roboto";
+  font-size: 39px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+
+#about-us .about-content span {
+  font-weight: 700;
+  padding-right: 10px;
+  text-transform: uppercase;
+}
+
+#about-us .about-content ul li {
+  line-height: 36px;
+}
+
+#about-us .about-content ul li .fa {
+  padding-right: 20px;
+}
+/* prism*/
+.prism-div{
+  width: 100%;
+  height: 50vh;
+  position: relative;
+  align-items:center;
+  margin-top: 40px;
+}
+body .prism-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    flex-direction:left;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.prism-container {
+
+    position:absolute;
+    left:600px;
+
+    perspective: 1000px;
+}
+
+.prism {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    transform-style: preserve-3d;
+    transform-origin: center center  ;
+    animation: rotatePrism 30s infinite linear;
+}
+
+.hexagon {
+
+    position: absolute;
+    width: 300px;
+    height: 300px; /* Maintain hexagon shape */
+    transform-style: preserve-3d;
+    transform-origin: center center ;
+}
+
+.hexagon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+#hex1 { transform: rotateY(0deg) translateZ(350px); }
+#hex2 { transform: rotateY(60deg) translateZ(350px); }
+#hex3 { transform: rotateY(120deg) translateZ(350px); }
+#hex4 { transform: rotateY(180deg) translateZ(350px); }
+#hex5 { transform: rotateY(240deg) translateZ(350px); }
+#hex6 { transform: rotateY(300deg) translateZ(350px); }
+
+@keyframes rotatePrism {
+    from {
+        transform: rotateY(0deg);
+    }
+    to {
+        transform: rotateY(360deg);
+    }
+}
+
+
+
+/* Video Section
+--------------------------------*/
+#video {
+  background: url(../img/video-bg.jpg) center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  overflow: hidden;
+}
+
+#video .overlay {
+  background: rgba(0, 0, 0, 0.85);
+  height: 100%;
+}
+
+#video .overlay .play-btn {
+  width: 94px;
+  height: 94px;
+  background: radial-gradient(#71c55d 50%, rgba(113, 197, 93, 0.15) 52%);
+  border-radius: 50%;
+  display: block;
+  margin: 153px auto 0;
+  position: relative;
+  overflow: hidden;
+}
+
+#video .overlay .play-btn::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-40%) translateY(-50%);
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 15px solid #fff;
+  z-index: 100;
+  transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+#video .overlay .play-btn:before {
+  content: "";
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  animation-delay: 0s;
+  animation: pulsate1 2s;
+  animation-direction: forwards;
+  animation-iteration-count: infinite;
+  animation-timing-function: steps;
+  opacity: 1;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  top: -15%;
+  left: -15%;
+  background: rgba(198, 16, 0, 0);
+}
+
+#video .overlay .play-btn:hover::after {
+  border-left: 15px solid #71c55d;
+  transform: scale(20);
+}
+
+#video .overlay .play-btn:hover::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-40%) translateY(-50%);
+  width: 0;
+  height: 0;
+  border: none;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 15px solid #fff;
+  z-index: 200;
+  animation: none;
+  border-radius: 0;
+}
+
+@keyframes pulsate1 {
+  0% {
+    transform: scale(0.6, 0.6);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1, 1);
+    opacity: 0;
+  }
+}
+
+/* Team Section
+--------------------------------*/
+#team .team-block {
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+  height: 254px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+  #team .team-block {
+    margin-bottom: 30px;
+  }
+}
+
+#team .team-block img {
+  width: 100%;
+}
+
+#team .team-block .team-content {
+  background: #fff none repeat scroll 0 0;
+  bottom: 0;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.19);
+  bottom: -147px;
+  padding: 20px 0;
+  position: absolute;
+  width: 100%;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+#team .team-block .team-content ul {
+  display: block;
+  width: 100%;
+}
+
+#team .team-block .team-content ul li {
+  display: inline-block;
+}
+
+#team .team-block .team-content ul li a {
+  color: #626262;
+}
+
+#team .team-block .team-content ul li a .fa {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: 0.3s;
+}
+
+#team .team-block .team-content ul li a .fa:hover {
+  color: #71c55d;
+}
+
+#team .team-block .team-content ul>span {
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
+#team .team-block:hover .team-content {
+  bottom: 0px;
+  transition: all 0.5s ease-in-out 0s;
+}
+
+/* Contact Section
+--------------------------------*/
+#contact {
+  background: #fff;
+}
+
+#contact .info {
+  color: #222;
+}
+
+#contact .info i {
+  font-size: 32px;
+  color: #71c55d;
+  float: left;
+  line-height: 0;
+}
+
+#contact .info p {
+  padding: 0 0 10px 50px;
+  margin-bottom: 20px;
+  line-height: 22px;
+  font-size: 14px;
+}
+
+#contact .info .email p {
+  padding-top: 5px;
+}
+
+#contact .social-links {
+  padding: 20px 0;
+}
+
+#contact .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #71c55d;
+  color: #fff;
+  line-height: 1;
+  padding: 6px 0 8px 0;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#contact .social-links a:hover {
+  background: #55b03f;
+  color: #fff;
+}
+
+#contact .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+#contact .php-email-form .error-message br+br {
+  margin-top: 25px;
+}
+
+#contact .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+#contact .php-email-form .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+#contact .php-email-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  animation: animate-loading 1s linear infinite;
+}
+
+#contact .php-email-form input,
+#contact .php-email-form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+#contact .php-email-form input:focus,
+#contact .php-email-form textarea:focus {
+  border-color: #71c55d;
+}
+
+#contact .php-email-form input {
+  padding: 10px 15px;
+}
+
+#contact .php-email-form textarea {
+  padding: 12px 15px;
+}
+
+#contact .php-email-form button[type=submit] {
+  background: #71c55d;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+}
+
+#contact .php-email-form button[type=submit]:hover {
+  background: #92d283;
+}
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+}
